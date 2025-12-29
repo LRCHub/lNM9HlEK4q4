@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Spectre",
+  "base_artist": "Alan Walker",
+  "createdAt": "2025-12-29T01:43:16.639995Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/01_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/02_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Spectre and His Mantra",
+      "artist": "Stray from the Path",
+      "has_synced": false,
+      "path": "select/03_The_Spectre_and_His_Mantra_Stray_from_the_Path.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Spectre (Original Mix)",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/04_The_Spectre_(Original_Mix)_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan walker",
+      "has_synced": true,
+      "path": "select/05_The_Spectre_Alan_walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/06_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Spectre - Sped up Remix",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/07_The_Spectre_-_Sped_up_Remix_Alan_Walker.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Spectre Dead",
+      "artist": "Night In Gales",
+      "has_synced": true,
+      "path": "select/08_The_Spectre_Dead_Night_In_Gales.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/09_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "J.Fla",
+      "has_synced": true,
+      "path": "select/10_The_Spectre_J.Fla.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/11_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/12_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unmask the Spectre",
+      "artist": "YOB",
+      "has_synced": false,
+      "path": "select/13_Unmask_the_Spectre_YOB.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/14_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Spectre (Acoustic)",
+      "artist": "Alex Goot feat. Kyson Facer",
+      "has_synced": true,
+      "path": "select/15_The_Spectre_(Acoustic)_Alex_Goot_feat._Kyson_Facer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Spectre (Acoustic)",
+      "artist": "Alex Goot & Kyson Facer",
+      "has_synced": true,
+      "path": "select/16_The_Spectre_(Acoustic)_Alex_Goot_&_Kyson_Facer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Spectre (Acoustic)",
+      "artist": "Alex Goot",
+      "has_synced": true,
+      "path": "select/17_The_Spectre_(Acoustic)_Alex_Goot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/pl_01_The_Spectre_Alan_Walker.txt"
+    }
+  ]
+}
